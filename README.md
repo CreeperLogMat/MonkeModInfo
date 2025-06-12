@@ -1,2 +1,2 @@
 ## MonkeModInfo
-It updates the mods and shit in `MonkeModManager'
+It updates the shit in `MonkeModManager'
