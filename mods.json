@@ -1,7 +1,7 @@
 {
 	"mods": [{
 			"name": "BepInEx",
-			"tag": "",
+			"tag": "Unity Modding Framework",
 			"gitPath": "BepInEx/BepInEx",
 			"releaseId": 4,
 			"author": "BepInEx Team",
@@ -9,7 +9,7 @@
 		},
 		{
 			"name": "Utilla",
-			"tag": "",
+			"tag": "RoomLib",
 			"gitPath": "legoandmars/Utilla",
 			"releaseId": 0,
 			"author": "bobbievr",
@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "HoneyLib",
-			"tag": "",
+			"tag": "Library",
 			"gitPath": "BzzzThe18th/HoneyLib",
 			"releaseId": 0,
 			"author": "buzzbb",
@@ -25,7 +25,7 @@
 		},
 		{
 			"name": "Bepinject",
-			"tag": "",
+			"tag": "Library",
 			"gitPath": "Auros/Bepinject",
 			"releaseId": 0,
 			"author": "Auros",
@@ -37,7 +37,7 @@
 		},
 		{
 			"name": "Extenject",
-			"tag": "",
+			"tag": "Library",
 			"gitPath": "Auros/Bepinject",
 			"releaseId": 1,
 			"author": "svermeulen",
@@ -46,56 +46,45 @@
 		},
 		{
 			"name": "Newtonsoft.JSON",
-			"tag": "",
+			"tag": "Library",
 			"gitPath": "legoandmars/Newtonsoft.Json",
 			"releaseId": 0,
-			"author": "James Newton-King",
+			"author": "legoandmars",
 			"group": "Libraries"
 		},
 		{
 			"name": "TMPLoader",
-			"tag": "",
+			"tag": "Library",
 			"gitPath": "AHauntedArmy/TMPLoader",
 			"releaseId": 0,
 			"author": "ahauntedarmy",
 			"group": "Libraries"
 		},
 		{
-			"name": "GOOMPS",
-			"tag": "",
-			"gitPath": "BzzzThe18th/GOOMPS",
+			"name": "ii's Stupid Menu",
+			"tag": "Gametool/Cheat",
+			"gitPath": "iiDk-the-actual/iis.Stupid.Menu",
 			"releaseId": 0,
-			"author": "buzzbb",
+			"author": "iidk",
 			"group": "Tweaks / Tools",
 			"dependencies": [
 				"Utilla"
 			]
 		},
 		{
-			"name": "bHaptics",
-			"tag": "",
-			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
-			"releaseId": 0,
-			"author": "Florian Fahrenberger",
-			"group": "Tweaks / Tools"
-		},
-		{
-			"name": "Tic Tac Toe",
-			"tag": "",
-			"gitPath": "HuskyGT/TicTacToe",
+			"name": "Banana OS",
+			"tag": "Gametool",
+			"gitPath": "HuskyGT/Banana-OS",
 			"releaseId": 0,
 			"author": "Husky",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla"
-			]
+			"group": "Gameplay"
 		},
 		{
-			"name": "Spatial Gorilla",
-			"tag": "v0.1.0",
-			"gitPath": "LIV/SpatialGorilla",
+			"name": "Grate",
+			"tag": "Gametool",
+			"gitPath": "The-Graze/Grate",
 			"releaseId": 0,
-			"author": "LIV",
+			"author": "Graze",
 			"group": "Tweaks / Tools",
 			"dependencies": [
 				"Utilla"
