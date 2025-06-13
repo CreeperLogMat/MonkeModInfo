@@ -64,15 +64,15 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
-    "name": "Tic Tac Toe",
-    "author": "Husky",
-    "version": "1.0.3",
+    "name": "ii's Stupid Menu",
+    "author": "iidk",
+    "version": "6.3.0",
     "dependencies": [
       "Utilla"
     ],
-    "git_path": "HuskyGT/TicTacToe",
-    "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/v6.3.0/iis_Stupid_Menu.dll"
   },
   {
     "name": "Utilla",
@@ -83,11 +83,22 @@
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
   },
   {
-    "name": "bHaptics",
-    "author": "Florian Fahrenberger",
-    "version": "3.0.1",
-    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
+    "name": "Grate",
+    "author": "The-Graze/Grate",
+    "version": "1.7.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "The-Graze/Grate",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.3/Grate.dll"
+  },
+  {
+    "name": "Banana OS",
+    "author": "HuskyGT",
+    "version": "1.1.0",
+    "git_path": "HuskyGT/Banana-OS",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/v1.1.0/BananaOS.dll"
   }
 ]
