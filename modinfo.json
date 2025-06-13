@@ -59,9 +59,6 @@
     "author": "iidk",
     "version": "6.3.0",
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
-    "dependencies": [
-      "Utilla"
-    ],
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/v6.3.0/iis_Stupid_Menu.dll"
@@ -80,9 +77,6 @@
     "author": "The-Graze/Grate",
     "version": "1.7.3",
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
-    "dependencies": [
-      "Utilla"
-    ],
     "git_path": "The-Graze/Grate",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.3/Grate.dll"
