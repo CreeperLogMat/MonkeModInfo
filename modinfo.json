@@ -59,24 +59,30 @@
     "author": "iidk",
     "version": "6.3.0",
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "dependencies": [
+      "Utilla"
+    ],
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/v6.3.0/iis_Stupid_Menu.dll"
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/6.3.0/iis_Stupid_Menu.dll"
   },
   {
     "name": "Utilla",
-    "author": "bobbievr",
+    "author": "Graze",
     "version": "1.6.14",
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
-    "git_path": "legoandmars/Utilla",
+    "git_path": "The-Graze/Utilla",
     "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+    "download_url": "https://github.com/The-Graze/Utilla/releases/download/1.6.17.1/Utilla.dll"
   },
   {
     "name": "Grate",
     "author": "The-Graze/Grate",
     "version": "1.7.3",
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "dependencies": [
+      "Utilla"
+    ],
     "git_path": "The-Graze/Grate",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.3/Grate.dll"
@@ -88,6 +94,6 @@
     "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
     "git_path": "HuskyGT/Banana-OS",
     "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/v1.1.0/BananaOS.dll"
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.1.0/BananaOS.dll"
   }
 ]
