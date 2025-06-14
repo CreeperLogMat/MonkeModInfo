@@ -85,7 +85,7 @@
       "Utilla"
     ],
     "git_path": "The-Graze/Grate",
-    "group": "Tweaks / Tools",
+    "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.3/Grate.dll"
   },
   {
@@ -96,5 +96,32 @@
     "git_path": "HuskyGT/Banana-OS",
     "group": "Gameplay",
     "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.1.0/BananaOS.dll"
-  }
+  },
+  {
+    "name": "Index",
+    "author": "zaynethedev",
+    "version": "1.1.0",
+    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "git_path": "zaynethedev/Index",
+    "group": "Gameplay",
+    "download_url": "https://github.com/zaynethedev/Index/releases/download/1.0.8/Index-1_0_8.zip"
+  },
+    {
+    "name": "Gorilla Shirts",
+    "author": "developer9998",
+    "version": "1.1.0",
+    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/1.2.1/GorillaShirts.dll"
+  },
+    {
+    "name": "Cone Holdable",
+    "author": "iidk",
+    "version": "1.0.1",
+    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "git_path": "iiDk-the-actual/ConeHoldable",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/iiDk-the-actual/ConeHoldable/releases/download/1.0.1/ConeHoldable.dll"
+  },
 ]
