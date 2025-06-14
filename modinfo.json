@@ -124,4 +124,22 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/iiDk-the-actual/ConeHoldable/releases/download/1.0.1/ConeHoldable.dll"
   },
+  {
+    "name": "Old Holdables",
+    "author": "gizmogoat",
+    "version": "2.4.3",
+    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "git_path": "iiDk-the-actual/ConeHoldable",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/gizmogoat/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
+  },
+  {
+    "name": "Liv Cam Skins",
+    "author": "Graze",
+    "version": "2.0.0",
+    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "git_path": "The-Graze/LivSkins",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/LivSkins/releases/download/2.0.0/LivSkins.zip"
+  },
 ]
