@@ -35,7 +35,7 @@
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.1.2",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.2/HoneyLib.dll"
@@ -44,7 +44,7 @@
     "name": "ii's Stupid Menu",
     "author": "iidk",
     "version": "6.3.0",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "dependencies": [
       "Utilla"
     ],
@@ -56,7 +56,7 @@
     "name": "Utilla",
     "author": "Graze",
     "version": "1.6.17.1",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "The-Graze/Utilla",
     "group": "Core",
     "download_url": "https://github.com/The-Graze/Utilla/releases/download/1.6.17.1/Utilla.dll"
@@ -77,7 +77,7 @@
     "name": "Banana OS",
     "author": "HuskyGT",
     "version": "1.1.0",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "HuskyGT/Banana-OS",
     "group": "Gameplay",
     "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.1.0/BananaOS.dll"
@@ -86,7 +86,7 @@
     "name": "Index",
     "author": "zaynethedev",
     "version": "1.1.0",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "zaynethedev/Index",
     "group": "Gameplay",
     "download_url": "https://github.com/zaynethedev/Index/releases/download/1.0.8/Index-1_0_8.zip"
@@ -95,7 +95,7 @@
     "name": "Gorilla Shirts",
     "author": "developer9998",
     "version": "1.1.0",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/1.2.1/GorillaShirts.dll"
@@ -104,7 +104,7 @@
     "name": "Cone Holdable",
     "author": "iidk",
     "version": "1.0.1",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "iiDk-the-actual/ConeHoldable",
     "group": "Cosmetic",
     "download_url": "https://github.com/iiDk-the-actual/ConeHoldable/releases/download/1.0.1/ConeHoldable.dll"
@@ -113,7 +113,7 @@
     "name": "Old Holdables",
     "author": "gizmogoat",
     "version": "2.4.3",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "iiDk-the-actual/ConeHoldable",
     "group": "Cosmetic",
     "download_url": "https://github.com/gizmogoat/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
@@ -122,9 +122,18 @@
     "name": "Liv Cam Skins",
     "author": "Graze",
     "version": "2.0.0",
-    "install location": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+    "install location": "BepInEx/plugins",
     "git_path": "The-Graze/LivSkins",
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/2.0.0/LivSkins.zip"
   },
+  {
+    "name": "CosmeticX"
+    "author": "iidk",
+    "version": "1.0.1",
+    "install location": "BepInEx/plugins",
+    "git_path": "iiDk-the-actual/Forever-Cosmeticx",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/iiDk-the-actual/Forever-Cosmeticx/releases/download/1.0.1/ForeverCosmeticx.zip"
+  }
 ]
