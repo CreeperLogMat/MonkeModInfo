@@ -134,6 +134,6 @@
     "install location": "BepInEx/plugins",
     "git_path": "iiDk-the-actual/Forever-Cosmeticx",
     "group": "Cosmetic",
-    "download_url": "https://github.com/iiDk-the-actual/Forever-Cosmeticx/releases/download/1.0.1/ForeverCosmeticx.zip"
-  }
+    "download_url": "https://github.com/iiDk-the-actual/Forever-Cosmeticx/releases/download/1.0.1/ForeverCosmeticx.dll"
+  },
 ]
